@@ -164,7 +164,7 @@ export default function ExitValuationSection() {
                 }`}
                 style={{
                   backgroundColor: item.highlight ? `${item.color}11` : 'transparent',
-                  ringColor: item.highlight ? item.color : 'transparent'
+                  borderColor: item.highlight ? item.color : 'transparent'
                 }}
               >
                 <div className="col-span-2 text-center">

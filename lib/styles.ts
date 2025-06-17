@@ -8,6 +8,9 @@ export const colors = {
   graphiteOverlay: '#1B1E24',
   white: '#FFFFFF',
   background: '#0F1115',
+  grayLight: '#9CA3AF',
+  surface: '#1B1E24',
+  border: '#2A2D35',
 };
 
 export const fonts = {

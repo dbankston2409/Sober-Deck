@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import { 
   Building2, Scale, Church, Users, 
-  Handshake, Home, CheckCircle, Broom,
+  Handshake, Home, CheckCircle,
   Lightbulb, Unlock
 } from "lucide-react";
 import { colors, fonts } from "@/lib/styles";
