@@ -7,6 +7,7 @@ export const colors = {
   softLavender: '#A89BE4',
   graphiteOverlay: '#1B1E24',
   white: '#FFFFFF',
+  background: '#0F1115',
 };
 
 export const fonts = {
