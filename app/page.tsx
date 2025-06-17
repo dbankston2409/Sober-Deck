@@ -3,7 +3,6 @@ import ProblemSection from "@/components/sections/ProblemSection";
 import SolutionSection from "@/components/sections/SolutionSection";
 import PassBuilderFlowSection from "@/components/sections/PassBuilderFlowSection";
 import MarketSection from "@/components/sections/MarketSection";
-import BusinessSection from "@/components/sections/BusinessSection";
 import NoInsuranceSection from "@/components/sections/NoInsuranceSection";
 import InsuranceSection from "@/components/sections/InsuranceSection";
 import ImpactTierSection from "@/components/sections/ImpactTierSection";
@@ -26,7 +25,6 @@ export default function Home() {
       <SolutionSection />
       <PassBuilderFlowSection />
       <MarketSection />
-      <BusinessSection />
       <NoInsuranceSection />
       <InsuranceSection />
       <ImpactTierSection />
